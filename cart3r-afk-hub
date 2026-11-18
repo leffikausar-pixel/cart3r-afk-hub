@@ -1,0 +1,9 @@
+cart3r-afk-hub/
+│
+├── main.lua
+├── modules/
+│   ├── interface.lua
+│   ├── settings.lua
+│   └── automation.lua
+│
+└── README.md
